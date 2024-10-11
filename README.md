@@ -15,7 +15,7 @@
 </table>
 
   
-  [![Linkedin](https://img.shields.io/badge/-ThiagoSeixas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/thiago-seixas-3a4a0628a)](www.linkedin.com/in/thiago-seixas-3a4a0628a)
+  [![Linkedin](https://img.shields.io/badge/-ThiagoSeixas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/thiago-seixas-3a4a0628a)](www.linkedin.com/in/thiago-seixas-3a4a0628a/)
   [![Gmail Badge](https://img.shields.io/badge/-thiagoseixas2005@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoseixas2005@gmail.com)](mailto:thiagoseixas2005@gmail.com)
   [![GitHub](https://img.shields.io/github/followers/seixasthii?label=follow&style=social)](https://github.com/seixasthii)
 </div>
