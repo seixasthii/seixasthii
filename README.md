@@ -2,9 +2,9 @@
 <table>
 <table>
   <a href="https://github.com/seixasthii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seixasthii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seixasthii&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="120" alt="JAVA">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seixasthii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seixasthii&langs_count=6&theme=tokyonight"/>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="120" alt="JAVA" >
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="130" alt="JavaScript">
