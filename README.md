@@ -1,9 +1,9 @@
 # Bem vindo, eu sou o Thiago!
 <table>
   <a href="https://github.com/seixasthii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seixasthii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-    <br>
+  
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=seixasthii&langs_count=8&theme=tokyonight"/>
+  <img width="500" height="180em" src="https://github-readme-stats.vercel.app/api?username=seixasthii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
   <br>
 
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="120" alt="JAVA" >
@@ -16,7 +16,7 @@
 </table>
 
   
-  [![Linkedin](https://img.shields.io/badge/-ThiagoSeixas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/thiago-seixas-3a4a0628a)](www.linkedin.com/in/thiago-seixas-3a4a0628a/)
+  [![Linkedin](https://img.shields.io/badge/-ThiagoSeixas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/thiago-seixas-3a4a0628a)](www.linkedin.com/in/thiago-seixas-3a4a0628a)
   [![Gmail Badge](https://img.shields.io/badge/-thiagoseixas2005@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoseixas2005@gmail.com)](mailto:thiagoseixas2005@gmail.com)
   [![GitHub](https://img.shields.io/github/followers/seixasthii?label=follow&style=social)](https://github.com/seixasthii)
 </div>
