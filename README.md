@@ -18,12 +18,12 @@
     <img src="https://img.icons8.com/?size=100&id=39855&format=png&color=ffffff" width="80" alt="MySQL">
   </div>
 ---
-<div align="center">
-  <a href="https://www.linkedin.com/in/thiago-seixas-3a4a0628a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:thiagoseixas2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-thiagoseixas2005@gmail.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thiagoseixas2005@gmail.com" />
-  </a>
-</div>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/thiago-seixas-3a4a0628a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:thiagoseixas2005@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-thiagoseixas2005@gmail.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thiagoseixas2005@gmail.com" />
+    </a>
+  </div>
  
