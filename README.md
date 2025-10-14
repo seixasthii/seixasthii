@@ -1,4 +1,11 @@
-<h1>Bem vindo, eu sou o Thiago!</h1>
+<h1>Olá, eu sou o Thiago. Bem-vindo ao meu perfil!</h1>
+
+<div>
+  Sou Thiago, desenvolvedor de software e estagiário, sempre motivado a aprender e evoluir. Trabalho com Odoo e procuro aplicar meu otimismo, proatividade e racionalidade em cada projeto.<br><br>
+  Meu objetivo é crescer profissionalmente e contribuir para soluções tecnológicas que façam a diferença.
+</div>
+
+---
 
 <a href="https://github.com/seixasthii">
 
