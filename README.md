@@ -10,11 +10,11 @@
   Meu objetivo é crescer profissionalmente e contribuir para soluções tecnológicas que façam a diferença, sempre motivado a aprender e evoluir.
 </p>
 
----
+<!------->
 
 <!--### 📊 GitHub Stats-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=seixasthii&layout=compact&theme=vue-dark&langs_count=6&hide_border=false" height="190" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seixasthii&layout=compact&theme=vue-dark&langs_count=6&hide_border=false" height="190" /> -->
 
 ---
 
