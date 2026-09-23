@@ -26,7 +26,7 @@ Atuo no desenvolvimento e na customização de sistemas de gestão empresarial, 
 ### 📬 Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thiago-seixas-3a4a0628a/" target="_blank">
+  <a href="https://www.linkedin.com/in/thiagobseixas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:thiagoseixas2005@gmail.com">
